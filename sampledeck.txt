@@ -1,1 +1,15 @@
 ### Sample Input deck ###
+50 50  # number of cells in each x and y dimension, respectively
+.5 .5  # width of cells in x and y dimension, respectively [cm]
+
+
+
+
+
+
+
+
+
+
+
+

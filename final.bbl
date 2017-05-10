@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{slaybaugh}
+Rachel Slaybaugh.
+\newblock 2-d finite difference/volume methods.
+
+\bibitem{Hadjidimos2000177}
+A.~Hadjidimos.
+\newblock Successive overrelaxation (sor) and related methods.
+\newblock {\em Journal of Computational and Applied Mathematics},
+  123(1â2):177 -- 199, 2000.
+\newblock Numerical Analysis 2000. Vol. III: Linear Algebra.
+
+\end{thebibliography}
